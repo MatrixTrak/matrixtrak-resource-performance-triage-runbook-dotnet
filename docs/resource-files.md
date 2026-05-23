@@ -13,4 +13,4 @@ Resource slug: performance-triage-runbook-dotnet
 - resources/bottleneck-classification-checklist.md (3620 bytes)
 - resources/dotnet-counters-cheatsheet.md (6250 bytes)
 - resources/performance-triage-runbook.md (5836 bytes)
-- resources/README.md (2260 bytes)
+- resources/README.md (2326 bytes)

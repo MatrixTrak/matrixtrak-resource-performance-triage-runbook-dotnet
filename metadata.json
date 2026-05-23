@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:41.858Z",
+  "generatedAt": "2026-05-23T12:57:41.820Z",
   "resourceSlug": "performance-triage-runbook-dotnet",
   "title": "Performance Triage Runbook for Legacy .NET",
   "description": "Step-by-step runbook to find the top 3 bottlenecks in legacy .NET applications—prioritized by quick-win vs. structural effort.",

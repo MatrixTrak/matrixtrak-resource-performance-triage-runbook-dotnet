@@ -49,10 +49,10 @@ A step-by-step method to identify the top 3 performance bottlenecks in a legacy 
 
 ## Related Resources
 
-- [Performance triage blog post](/blog/performance-triage-legacy-dotnet-find-top-3-bottlenecks-fast)
-- [Thread pool starvation: the silent killer](/blog/thread-pool-starvation-silent-killer-aspnet-performance)
+- [Performance triage blog post](https://matrixtrak.com/blog/performance-triage-legacy-dotnet-find-top-3-bottlenecks-fast)
+- [Thread pool starvation: the silent killer](https://matrixtrak.com/blog/thread-pool-starvation-silent-killer-aspnet-performance)
 - [dotnet-counters documentation](https://learn.microsoft.com/dotnet/core/diagnostics/dotnet-counters)
 
 ## Support
 
-If you need hands-on help with performance triage or optimization, see [MatrixTrak services](/services).
+If you need hands-on help with performance triage or optimization, see [MatrixTrak services](https://matrixtrak.com/services).
