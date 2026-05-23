@@ -1,10 +1,18 @@
 {
-  "generatedAt": "2026-05-23T12:20:14.152Z",
+  "generatedAt": "2026-05-23T12:44:41.858Z",
   "resourceSlug": "performance-triage-runbook-dotnet",
   "title": "Performance Triage Runbook for Legacy .NET",
   "description": "Step-by-step runbook to find the top 3 bottlenecks in legacy .NET applications—prioritized by quick-win vs. structural effort.",
   "category": ".NET",
   "pillar": "dotnet-legacy",
+  "access": "free",
+  "sourcePublicPath": "/ship/dotnet-legacy/performance-triage-legacy-dotnet-find-top-3-bottlenecks-fast",
+  "includedRepoFiles": [
+    "resources/bottleneck-classification-checklist.md",
+    "resources/dotnet-counters-cheatsheet.md",
+    "resources/performance-triage-runbook.md",
+    "resources/README.md"
+  ],
   "canonicalResourceUrl": "https://matrixtrak.com/resources/performance-triage-runbook-dotnet",
   "primaryPostSlugs": [
     "performance-triage-legacy-dotnet-find-top-3-bottlenecks-fast"

@@ -17,6 +17,17 @@ It is designed for quick implementation support, community sharing, and stable v
 
 Step-by-step runbook to find the top 3 bottlenecks in legacy .NET applications—prioritized by quick-win vs. structural effort.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/bottleneck-classification-checklist.md
+  - resources/dotnet-counters-cheatsheet.md
+  - resources/performance-triage-runbook.md
+  - resources/README.md
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
